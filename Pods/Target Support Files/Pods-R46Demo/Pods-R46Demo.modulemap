@@ -1,0 +1,6 @@
+module Pods_R46Demo {
+  umbrella header "Pods-R46Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
